@@ -2,7 +2,7 @@
 
 npm install openai\
 npm install nft.storage\
-npm install web\
+npm install web
 
 # Getting Started with Create React App
 
